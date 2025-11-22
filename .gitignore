@@ -1,0 +1,13 @@
+# virtual environment
+venv/
+# env file with secrets
+.env
+# Python cache
+__pycache__/
+*.pyc
+# OS files
+.DS_Store
+Thumbs.db
+# IDE settings
+.vscode/
+.idea/
